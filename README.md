@@ -1,1 +1,1 @@
-# COMP354
+# E-Commerce Website using React
